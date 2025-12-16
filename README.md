@@ -247,7 +247,7 @@ This project is available for educational and personal use.
 
 ## Author
 
-Kartikeya
+Kartikeya Chitranshi
 
 ## Acknowledgments
 
